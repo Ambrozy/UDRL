@@ -1,6 +1,7 @@
 import numpy as np
 
-from framework import BehaviorFunction, ReplayBuffer
+from framework.BehaviorFunction import BehaviorFunction
+from framework.ReplayBuffer import ReplayBuffer
 
 
 class Driver:
